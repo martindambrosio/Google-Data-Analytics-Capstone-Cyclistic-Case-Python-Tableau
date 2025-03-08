@@ -1,4 +1,4 @@
-# Case Study: Cyclistic - Google Data Analytics Professional Certificate
+# Case Study: Cyclistic - Google Data Analytics Professional Case
 
 🚴‍♂️ The Chicago-based bike-share company Cyclistic offers flexible pricing with single-ride, full-day, and annual passes. Since annual members are more profitable, the goal is to convert casual riders into members through data analysis and targeted marketing. 🚴‍♂️
 
